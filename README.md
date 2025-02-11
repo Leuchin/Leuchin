@@ -1,8 +1,8 @@
 ## Hi there 👋
-
+![image](https://github.com/user-attachments/assets/59c6c8f0-cf90-4869-9f29-01cd2e24b6b7)
 <!--
 **Leuchin/Leuchin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-![image](https://github.com/user-attachments/assets/59c6c8f0-cf90-4869-9f29-01cd2e24b6b7)
+
 
 Here are some ideas to get you started:
 
